@@ -1,0 +1,3 @@
+<P>Note to all personnel:
+<P>
+<P>Starting next week, the shared account on security console 5 (ID: master1, password: yellow) will be deactivated for security reasons.  Individual accounts will be created for those requiring access on an as needed basis.

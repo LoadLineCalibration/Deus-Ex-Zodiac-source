@@ -1,0 +1,35 @@
+<B>Artificial Intelligence for 10 year olds: Test 1</B>
+<P>
+<P>Natural language processing is a fast growing area in artificial intelligence. Below is part of a program which is used to analyse sentence structure in order to work out what the sentence means. The program is written in a <I>declarative language</I> which uses <I>depth first search.</I>
+<P>
+<P>1 noun (badger)     Badger is a noun
+<P>2 noun (fox)
+<P>3 noun (otter)
+<P>
+<P>4 verb (sees)       Sees is a verb
+<P>5 verb (jumps)
+<P>6 verb (meets)
+<P>
+<P>7 Adjective (brown) Brown is an adjective
+<P>8 Adjective (quick)
+<P>9 Adjective (lazy)
+<P>
+<P>10 Sentence (A B C) if
+<P> noun (A) and   A sentence is a noun
+<P> verb (B) and   Followed by a verb
+<P> noun (C)       Followed by a noun
+<P>
+<P>(a)(i)  What would be the output of the following query?
+<P>         <I>?sentence (badger meets otter)</I>
+<P>   (ii) Explain how the system would evaluate the query.
+<P>
+<P>The fisrt solution for the query ?sentence (A sees C) is
+<P>A=Badger C=Badger
+<P>(i)  What is the second solution?
+<P>(ii) Describe how you would alter the sentence rule so that noun are 
+always different and sentences like "Badger sees Badger" are no longer valid
+<P>(c) Using the syntax above, write a rule called "complex_sentence" which 
+would allow a sentence such as: "Lazy Badger meets brown fox"
+<P>(d) Explain in 300 words or less how this basic system is implemented in 
+electronic surveillence networks, and why this is important for the future 
+of civilization.

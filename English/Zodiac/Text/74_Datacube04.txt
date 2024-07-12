@@ -1,0 +1,14 @@
+<DC=255,255,255>
+<P>To all trainees:
+<P>
+<P>The security code for the cavern entrance Epsilon XR9 will be changed automatically each day.
+<P>
+<P>Monday: 1568
+<P>Tuesday: 4518
+<P>Wednesday: 8624
+<P>Thursday: 5134
+<P>Friday: 7415
+<P>Saturday: 1264
+<P>Sunday: 7156
+<P>
+<P>- Epsilon Security Division

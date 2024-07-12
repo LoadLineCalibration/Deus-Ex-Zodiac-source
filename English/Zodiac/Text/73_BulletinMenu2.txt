@@ -1,0 +1,2 @@
+<COMMENT>Page Biotech Lobby Kiosk</COMMENT>
+<FILE=73_BulletinB01,Welcome>

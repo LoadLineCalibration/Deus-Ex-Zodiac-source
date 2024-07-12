@@ -1,0 +1,3 @@
+<P>HANGAR DOOR SECURITY LOCKOUT IN EFFECT
+<P>
+<P>For security reasons, hangar door control from console A4 has been disabled.  In the event that the hangar doors must be opened, the console can be temporarily overridden from any terminal in the lab.  During the two week testing period, the test account "page1" with a password of "section6" can be used.  After the testing period has ended, special permission must be granted by the network administrator for access to the override function.

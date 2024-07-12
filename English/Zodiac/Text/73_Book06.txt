@@ -1,0 +1,7 @@
+<P>Transcription is the mechanism by which a template strand of DNA is utilized by specific RNA polymerases to generate one of the three different classifications of RNA. These 3 RNA classes are:
+<P>
+<P>1. Messenger RNAs (mRNAs): This class of RNAs are the genetic coding templates used by the translational machinery to determine the order of amino acids incorporated into an elongating polypeptide in the process of translation.
+<P>
+<P>2. Transfer RNAs (tRNAs): This class of small RNAs form covalent attachments to individual amino acids and recognize the encoded sequences of the mRNAs to allow correct insertion of amino acids into the elongating polypeptide chain.
+<P>
+<P>3. Ribosomal RNAs (rRNAs): This class of RNAs are assembled, together with numerous ribosomal proteins, to form the ribosomes. Ribosomes engage the mRNAs and form a catalytic domain into which the tRNAs enter with their attached amino acids. The proteins of the ribosomes catalyze all of the functions of polypeptide synthesis.

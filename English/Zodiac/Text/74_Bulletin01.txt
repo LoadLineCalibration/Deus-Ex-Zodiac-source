@@ -1,0 +1,4 @@
+<COMMENT> Title: Elevator note </COMMENT>
+<P>Notice to all employees:
+<P>
+<P>The main elevator in the lobby area will be not be operational from 10:00 to 06:00 daily. This is a security precaution.

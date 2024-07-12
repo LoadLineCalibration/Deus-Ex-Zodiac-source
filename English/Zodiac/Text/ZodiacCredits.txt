@@ -1,0 +1,75 @@
+<P>
+<P>
+<B>Concept, Level Design,
+<B>Script Programming, Modeling, 
+<B>Textures, Story, and Dialogue
+<P>Steve Tack
+<P>
+<B>Mission 1: CIA Headquarters
+<P>Mapping and level design by Steve Tack
+<P>
+<B>Mission 2: Buenos Aires
+<P>Mapping by Nicholas Cowen
+<P>Level design by Nicholas Cowen & Steve Tack
+<P>
+<B>Mission 3: Page Biotech and
+<B>Mission 4: Cloning Labs (lower levels)
+<P>Mapping and level design by Steve Tack
+<P>
+<B>Mission 4: Cloning Labs (upper levels)
+<P>Mapping by Håvard Skjæveland & Steve Tack
+<P>Level design by Håvard Skjæveland & Steve Tack
+<P>
+<B>Mission 5-6: Holloman Air Force Base & Egypt
+<P>Mapping and level design by Steve Tack
+<P>
+<B>Music
+<P>Original Score by Steve Foxon
+<P>
+<P>ZODIAC soundtrack available at Orak's Music Emporium:
+<P>www.oraks-emporium.com
+<P>
+<B>Additional textures and text elements
+<P>Jim McBrearty
+<P>
+<B>SPECIAL THANKS
+<P>
+<P>Super special thanks to Steve Foxon for help
+<P>with story ideas and lots of feedback
+<P>
+<B>Prefabricated Elements and "Mods"
+<P>
+<P>Carone Elevator Mod by Carone
+<P>Ferrari F360 model by Psionic
+<P>Jeep Grand Cherokee model by Steve Lyons
+<P>Range Rover model by Andrei Paraschiv
+<P>
+<B>Beta Testers
+<P>
+<P>Ricardo Barreiro
+<P>Lucijan Blagonic
+<P>Hanh Court
+<P>Nicholas Cowen
+<P>Darren Eastes
+<P>Alf Otto Auglend Fagermo
+<P>Dave Fenwick
+<P>Steve Foxon
+<P>Ken Haynes
+<P>Arne Hupe
+<P>Henri Kemppainen
+<P>Jim McBrearty
+<P>Lucas "Midashand" McDaniel
+<P>H. Miersch
+<P>Odaiba
+<P>
+<P>
+<P>For Deus Ex SDK tutorials and utilities, visit
+<P>Tack's Deus Ex Lab at www.planetdeusex.com/tack
+<P>
+<P>For the latest on ZODIAC, visit
+<P>www.planetdeusex.com/zodiac
+<P>
+<P>
+<P>
+<P>
+<P>

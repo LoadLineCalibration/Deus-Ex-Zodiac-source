@@ -1,0 +1,7 @@
+<P>MAINTENENCE LOG 78653.345.2
+<P>
+<P>Pump 6 in the second cooling tower had to be replaced today.  Used Part # 83003-B this time.  Hopefully that will work better than the 83003-A we had been using.  Those cooling towers sure do seem archaic compared to what's powering the generator.
+<P>
+<P>The latest detection hardware arrived this morning.  We fired it up, but none of the needles budged on the new gear either.  If that mysterious power source is so safe, though, why do I feel queasy whenever I get near it?
+<P>
+<P>It's weird.  You'd think <B>something</B> would show up on the scopes.

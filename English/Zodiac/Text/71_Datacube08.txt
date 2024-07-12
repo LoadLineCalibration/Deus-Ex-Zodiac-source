@@ -1,0 +1,3 @@
+<P>Emergency procedure 1174-2.B
+<P>
+<P>In the event of a catastrophic failure in all redundant safety systems on the GX-4 anti-aircraft missile system, it can be disarmed by depressing the emergency "all off" switch.  To access that control, enter the code 9349 on the keypad.

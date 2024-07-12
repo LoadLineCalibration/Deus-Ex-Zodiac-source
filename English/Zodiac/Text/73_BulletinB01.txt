@@ -1,0 +1,14 @@
+<P><JC>VersaLife</JC>
+<P><JC>"We make tomorrow look like yesterday."</JC>
+<P>
+<P>Welcome to Page Biotech (VersaLife facility SW8), a subsidiary of Page Industries, Inc.  An industry leader in biotechnology, Page Biotech offers the following products and services:
+<P>
+<P>* Bio-manufacturing and cloning of immunogenic recombinant proteins using a plant cell-based expression system
+<P>* Sterilization facility provides pathogen elimination via gamma radiation or chlorine dioxide gas
+<P>* Disease detection products utilitizing genetically-engineered proteins
+<P>
+<P>Page Biotech's research and development efforts are currently focused on:
+<P>
+<P>* Ribosomal RNA (rRNA) Synthesis
+<P>* Neuropathology and Applied Neurobiology: Learning, Memory, and Behavior
+<P>* Theoretical Biophysics and Biocomputing
